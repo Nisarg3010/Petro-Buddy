@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+pinecone-client
+tiktoken
+python-dotenv
+sentence-transformers
